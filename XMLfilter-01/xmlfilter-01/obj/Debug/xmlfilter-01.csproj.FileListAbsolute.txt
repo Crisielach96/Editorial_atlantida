@@ -1,0 +1,12 @@
+C:\Users\CSielach\source\repos\xmlfilter-01\xmlfilter-01\bin\Debug\xmlfilter-01.exe.config
+C:\Users\CSielach\source\repos\xmlfilter-01\xmlfilter-01\bin\Debug\xmlfilter-01.exe
+C:\Users\CSielach\source\repos\xmlfilter-01\xmlfilter-01\bin\Debug\xmlfilter-01.pdb
+C:\Users\CSielach\source\repos\xmlfilter-01\xmlfilter-01\obj\Debug\xmlfilter-01.csprojAssemblyReference.cache
+C:\Users\CSielach\source\repos\xmlfilter-01\xmlfilter-01\obj\Debug\xmlfilter-01.exe
+C:\Users\CSielach\source\repos\xmlfilter-01\xmlfilter-01\obj\Debug\xmlfilter-01.pdb
+C:\Users\CSielach\Desktop\Proyectos\XMLfilter-01\xmlfilter-01\bin\Debug\xmlfilter-01.exe.config
+C:\Users\CSielach\Desktop\Proyectos\XMLfilter-01\xmlfilter-01\bin\Debug\xmlfilter-01.exe
+C:\Users\CSielach\Desktop\Proyectos\XMLfilter-01\xmlfilter-01\bin\Debug\xmlfilter-01.pdb
+C:\Users\CSielach\Desktop\Proyectos\XMLfilter-01\xmlfilter-01\obj\Debug\xmlfilter-01.csprojAssemblyReference.cache
+C:\Users\CSielach\Desktop\Proyectos\XMLfilter-01\xmlfilter-01\obj\Debug\xmlfilter-01.exe
+C:\Users\CSielach\Desktop\Proyectos\XMLfilter-01\xmlfilter-01\obj\Debug\xmlfilter-01.pdb

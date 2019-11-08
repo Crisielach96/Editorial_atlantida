@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlfilter-01", "xmlfilter-01\xmlfilter-01.csproj", "{F770B5F6-DD66-442C-A719-5CD2CCB3D482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F770B5F6-DD66-442C-A719-5CD2CCB3D482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F770B5F6-DD66-442C-A719-5CD2CCB3D482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F770B5F6-DD66-442C-A719-5CD2CCB3D482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F770B5F6-DD66-442C-A719-5CD2CCB3D482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {886D8F43-EC16-43D9-8992-400E165C62BF}
+	EndGlobalSection
+EndGlobal
