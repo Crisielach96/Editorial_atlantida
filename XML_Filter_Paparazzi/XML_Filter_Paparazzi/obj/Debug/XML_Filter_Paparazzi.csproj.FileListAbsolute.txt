@@ -1,0 +1,6 @@
+C:\Users\CSielach\Desktop\Proyectos\XML_Filter_Paparazzi\XML_Filter_Paparazzi\bin\Debug\XML_Filter_Paparazzi.exe.config
+C:\Users\CSielach\Desktop\Proyectos\XML_Filter_Paparazzi\XML_Filter_Paparazzi\bin\Debug\XML_Filter_Paparazzi.exe
+C:\Users\CSielach\Desktop\Proyectos\XML_Filter_Paparazzi\XML_Filter_Paparazzi\bin\Debug\XML_Filter_Paparazzi.pdb
+C:\Users\CSielach\Desktop\Proyectos\XML_Filter_Paparazzi\XML_Filter_Paparazzi\obj\Debug\XML_Filter_Paparazzi.csprojAssemblyReference.cache
+C:\Users\CSielach\Desktop\Proyectos\XML_Filter_Paparazzi\XML_Filter_Paparazzi\obj\Debug\XML_Filter_Paparazzi.exe
+C:\Users\CSielach\Desktop\Proyectos\XML_Filter_Paparazzi\XML_Filter_Paparazzi\obj\Debug\XML_Filter_Paparazzi.pdb
