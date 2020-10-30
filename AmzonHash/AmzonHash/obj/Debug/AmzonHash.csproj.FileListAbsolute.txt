@@ -1,0 +1,6 @@
+C:\Users\CSielach\source\repos\AmzonHash\AmzonHash\bin\Debug\AmzonHash.exe.config
+C:\Users\CSielach\source\repos\AmzonHash\AmzonHash\bin\Debug\AmzonHash.exe
+C:\Users\CSielach\source\repos\AmzonHash\AmzonHash\bin\Debug\AmzonHash.pdb
+C:\Users\CSielach\source\repos\AmzonHash\AmzonHash\obj\Debug\AmzonHash.csprojAssemblyReference.cache
+C:\Users\CSielach\source\repos\AmzonHash\AmzonHash\obj\Debug\AmzonHash.exe
+C:\Users\CSielach\source\repos\AmzonHash\AmzonHash\obj\Debug\AmzonHash.pdb
